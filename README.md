@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./BlackJackGamePic.png)
+![](./blackJackGamePic.png)
 
 ## My process
 
